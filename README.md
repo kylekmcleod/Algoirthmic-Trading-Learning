@@ -1,6 +1,8 @@
 # Algorithmic Trading Project
 
-This repository is used for tracking my learning on machine learning and algorithmic trading.
+This repository documents my learning journey in machine learning and algorithmic trading. The goal of this project is to learn how to gather data and apply it to a machine learning model to predict which stocks will be the most profitable in the coming month. The data is extracted from the S&P 500 using Yahoo Finance. 
+
+The features included in the model are: atr, bb_high, bb_low, bb_med, garman_klass_vol, macd, rsi, return_1m, return_2m, return_3m, return_6m, return_9m, return_12m, Mkt-RF, SMB, HML, RMW, and CMA.
 
 ## Packages & Technologies
 
